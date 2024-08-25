@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Comcells2 Frontend Issues
+    url: https://github.com/Comfy-Org/Comcells2_frontend/issues
+    about: Issues related to the Comcells2 frontend (display issues, user interaction bugs), please go to the frontend repo to file the issue
+  - name: Comcells2 Matrix Space
+    url: https://app.element.io/#/room/%23comcells2ui_space%3Amatrix.org
+    about: The Comcells2 Matrix Space is available for support and general discussion related to Comcells2 (Matrix is like Discord but open source).
+  - name: Comfy Org Discord
+    url: https://discord.gg/comcells2org
+    about: The Comfy Org Discord is available for support and general discussion related to Comcells2.
